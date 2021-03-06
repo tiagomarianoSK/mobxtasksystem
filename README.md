@@ -1,7 +1,7 @@
 ![mobix](https://user-images.githubusercontent.com/54405709/110211897-80ad9680-7e77-11eb-82e2-9766712580da.png)
 
 
-# 🌎 MAPS GOOGLE CALCULATION
+# 🗓 MOBX TASK SYSTEM
 
 #### Uma lista de tarefas simples em [Flutter](https://flutter.dev/?gclid=CjwKCAiAm-2BBhANEiwAe7eyFFt_Zrh3hpukNQo9OE7hA3-F64SQgV1c8FWPYmVuQH1A7NYJon9tVxoCQx8QAvD_BwE&gclsrc=aw.ds), utilizando o mobX.
 
@@ -17,8 +17,7 @@
 
 Confira as capturas de telas do projeto.
 
-<img src="https://user-images.githubusercontent.com/54405709/110212070-62946600-7e78-11eb-90a0-729c6d9b77ac.jpeg" alt="drawing" width="250"/> 
-<img src="https://user-images.githubusercontent.com/54405709/110212071-63c59300-7e78-11eb-8204-ca78a00d9234.jpeg" alt="drawing" width="250"/> 
+<img src="https://user-images.githubusercontent.com/54405709/110212070-62946600-7e78-11eb-90a0-729c6d9b77ac.jpeg" alt="drawing" width="250"/>   <img src="https://user-images.githubusercontent.com/54405709/110212071-63c59300-7e78-11eb-8204-ca78a00d9234.jpeg" alt="drawing" width="250"/> 
 
 ## 🛠 LIBRARIES & TECNOLOGIAS USADAS 
 
